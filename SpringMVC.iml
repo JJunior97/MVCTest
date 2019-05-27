@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="AppContext" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/WEB-INF/appContext.xml</file>
+        </fileset>
+        <fileset id="fileset2" name="MyServlet Sevlet" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/WEB-INF/myServlet-sevlet.xml</file>
+        </fileset>
+        <fileset id="fileset3" name="MyServlet Servlet" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/WEB-INF/myServlet-servlet.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+</module>
